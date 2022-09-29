@@ -1,0 +1,51 @@
+body{
+font-family: fantasy;
+background-size: cover;
+background-color: #a8e6cf;
+}
+
+.login-box{
+width:45%;
+height:65%;
+font-size: 20px;
+position:absolute;
+top: 50%;
+left:50%;
+transform: translate(-50%,-50%);
+text-align: center;
+border-style: outset;
+border-radius: 15px;
+border-color: black;
+padding: 10px;
+background-image: url(d1.jfif);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+input
+{
+  border: 1px solid #000;
+  border-radius: 4px;
+  font-size: 15px;
+  margin: 5px;
+  padding: 10px;
+  display: inline-block;
+}
+.btn{
+  font-size: 20px;
+ background-color:#aeefec;
+}
+h1{
+  text-align: center;
+  font-size: 30px;
+  cursor: pointer;
+  color: #c02739;
+
+}
+h2{
+
+font-size: 35px;
+margin-left: 440px;
+font-family: sans-serif;
+color:#937d14;
+}

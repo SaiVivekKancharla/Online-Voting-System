@@ -1,0 +1,29 @@
+.d1{
+  font-style: italic;
+  color: #cc0066;
+  font-size: 30px;
+  width: 25%;
+border-style: dashed;
+border-color: #000000;
+border-width: 5px;
+height: 20%;
+margin-left: 620px;
+padding: 15px;
+}
+button{
+  margin-left: 720px;
+  margin-top: 20px;
+  padding: 10px;
+  background-image: linear-gradient(#ffaaa5,#ffeb99);
+}
+h1{
+  color: #323edd;
+}
+body{
+  background-image: url(d4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.c{
+  font-size: 25px;
+}
